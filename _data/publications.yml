@@ -7,6 +7,7 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3770761.3777348
     # code:
     # bibtex:
+    permalink: https://doi.org/10.1145/3770761.3777348
     image: ./assets/img/teaser-teach2learn-sigcse2026.png
     notes: Poster Presentation
 

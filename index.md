@@ -12,4 +12,4 @@ Hello! I am an undergraduate student studying Computer Science and Engineering a
 
 ## News
 
-- **[Feb. 2026]** Poster accepted to SIGCSE TS 2026!
+- **[Feb. 2026]** Poster presentation at SIGCSE TS 2026!
