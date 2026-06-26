@@ -12,4 +12,4 @@ Hello! I'm an undergraduate student studying Computer Science and Engineering at
 
 ## News
 
-- **[Feb. 2026]** <a href="/assets/files/sigcse-2026-poster.pdf" target="_blank" rel="noopener noreferrer">Poster</a> presentation at SIGCSE TS 2026!
+- **[Feb. 2026]** <a href="/assets/files/sigcse-ts-2026-poster.pdf" target="_blank" rel="noopener noreferrer">Poster</a> presentation at SIGCSE TS 2026!
