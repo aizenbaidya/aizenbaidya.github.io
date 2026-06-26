@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I am an undergraduate student studying Computer Science and Engineering at the University of California, Merced.
+Hello! I'm an undergraduate student studying Computer Science and Engineering at the University of California, Merced.
 
 ## Research Interests
 
@@ -12,4 +12,4 @@ Hello! I am an undergraduate student studying Computer Science and Engineering a
 
 ## News
 
-- **[Feb. 2026]** Poster presentation at SIGCSE TS 2026!
+- **[Feb. 2026]** <a href="/assets/files/sigcse-2026-poster.pdf" target="_blank" rel="noopener noreferrer">Poster</a> presentation at SIGCSE TS 2026!
