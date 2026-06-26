@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm an undergraduate student studying Computer Science and Engineering at the University of California, Merced.
+Hello! My name is Aizen, and I am an undergraduate student studying Computer Science and Engineering at the University of California, Merced.
 
 ## Research Interests
 
