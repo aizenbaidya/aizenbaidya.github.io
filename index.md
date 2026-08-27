@@ -8,8 +8,8 @@ Hello! My name is Aizen, and I am an undergraduate student studying Computer Sci
 
 ## Research Interests
 
-- **Computer Vision**: Event detection, Object tracking, Pose estimation
 - **Computer Science Education**: Interactive learning environments, Computer-assisted instruction, E-learning
+- **Computer Vision**: Event detection, Object tracking, Pose estimation
 
 ## News
 
