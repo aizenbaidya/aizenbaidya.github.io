@@ -14,3 +14,4 @@ Hello! My name is Aizen, and I am an undergraduate student studying Computer Sci
 ## News
 
 - **[Feb. 2026]** <a href="/assets/files/sigcse-ts-2026-poster.pdf" target="_blank" rel="noopener noreferrer">Poster</a> presentation at SIGCSE TS 2026!
+- **[Nov. 2025]** Paper accepted in SIGCSE TS 2026!
