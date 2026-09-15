@@ -9,7 +9,7 @@ main:
     # bibtex:
     permalink: https://doi.org/10.1145/3770761.3777348
     image: ./assets/img/teaser-teach2learn-sigcse2026.png
-    notes: Poster Presentation
+    notes: Extended Abstract
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
