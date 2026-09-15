@@ -1,5 +1,16 @@
 main:
 
+  # - title: "Can You Teach It? Deploying Learning-by-Teaching Pedagogy Using Teachable LLM Agents Among Non-CS Students at a Hispanic-Serving Institution"
+  #   authors: "<b>Aizen Baidya</b> and Ayush Pandey"
+  #   conference_short: SIGCSE
+  #   conference: "SIGCSE TS 2027: The 58th ACM Technical Symposium on Computer Science Education"
+  #   # pdf: 123
+  #   # code:
+  #   # bibtex:
+  #   # permalink: xyz
+  #   image: ./assets/img/placeholder.webp
+  #   # notes: "Paper Presentation"
+
   - title: "Teach2Learn: Assessing the Learning among CS1 Students on How Well They Can Teach LLM-Simulated Students"
     authors: "<b>Aizen Baidya</b> and Ayush Pandey"
     conference_short: SIGCSE
@@ -9,7 +20,7 @@ main:
     # bibtex:
     permalink: https://doi.org/10.1145/3770761.3777348
     image: ./assets/img/teaser-teach2learn-sigcse2026.png
-    notes: "Extended Abstract"
+    # notes: "Poster Presentation"
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
